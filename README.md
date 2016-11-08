@@ -2,7 +2,7 @@
 
 ###1.Software Engineering là gì?  
 *Software Engineering là một lĩnh vực kỹ thuật bao gồm tất cả các mặt của việc sản xuất phần mềm.*    
-**Mục tiêu: **  
+**Mục tiêu:**  
 - Sử dụng chi phí hiệu quả
 - Đúng thời hạn
 - Chất lượng cao
@@ -14,7 +14,7 @@
 
 ###2.Tại sao bạn chọn SE?    
 - **Thứ nhất:** đam mê (muốn trở thành IT)  
-- **Thứ hai:** nó khá hot,dễ kiếm ngành   
+- **Thứ hai:** nó khá hot,dễ kiếm tiền     
 - **Thứ ba:** tự đánh giá khả năng của bản thân    
 - **Thứ tư:** tò mò  (muốn biết nhiều về SE)  
 
