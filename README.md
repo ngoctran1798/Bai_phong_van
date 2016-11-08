@@ -6,7 +6,8 @@
 - Sử dụng chi phí hiệu quả
 - Đúng thời hạn
 - Chất lượng cao
-- Thỏa mãn nhu cầu người dùng.    
+- Thỏa mãn nhu cầu người dùng.  
+
 **Các thử thách trong Software Engineering**  
   -  Đa dạng: Các kỹ thuật để phát triển software trên nhiều nền tảng  
   -  Độ tin cậy: Các kỹ thuật để làm software đạt được sự tin tưởng của người dùng  
